@@ -1,0 +1,10 @@
+notebook
+ipython
+jupyter 
+matplotlib
+tqdm
+pandas
+scikit-learn
+mplcursors
+torch
+torchvision
